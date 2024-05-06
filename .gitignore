@@ -1,3 +1,7 @@
 venv/
 Data/
 haarcascade_frontalface_default.xml
+.env
+modeloEigenFace.xml
+modeloFisherFace.xml
+modeloLBPHFace.xml
