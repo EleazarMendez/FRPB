@@ -5,3 +5,4 @@ haarcascade_frontalface_default.xml
 modeloEigenFace.xml
 modeloFisherFace.xml
 modeloLBPHFace.xml
+canonical_face_model_uv_visualization.png
